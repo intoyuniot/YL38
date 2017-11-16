@@ -1,0 +1,17 @@
+{
+    "name": "YL38",
+    "version": "1.0.0",
+    "keywords": "YL38,soil",
+    "description": "YL38土壤湿度检测传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/YL38.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
